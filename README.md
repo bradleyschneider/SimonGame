@@ -1,1 +1,2 @@
 # SimonGame
+A challenge for The Web Development BootCamp is The Dice Game is Boss Level Challange Two. Simon games requiers from player to repeat steps that application has make.(Click on same color as application did) This challange requires combined knowledge from The Dice Game and DrumKit. Although this challange is highly similar to previous ones, it requires usage and understanding of jQuery.
